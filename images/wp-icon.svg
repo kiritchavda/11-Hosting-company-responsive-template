@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48.000488"
+   height="48.000488"
+   viewBox="0 0 48.000488 48.000488"
+   fill="none"
+   version="1.1"
+   id="svg1584"
+   sodipodi:docname="Hosting Landing Page.svg"
+   inkscape:export-filename="Hosting Landing Page.png"
+   inkscape:export-xdpi="10.041841"
+   inkscape:export-ydpi="10.041841"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1586"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.54916318"
+     inkscape:cx="651.90095"
+     inkscape:cy="770.26286"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1584" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 16.079244,0.91724414 c 5.21,-1.223 10.632,-1.223 15.842,0 7.523,1.76399996 13.398,7.63899996 15.162,15.16199986 1.223,5.21 1.223,10.632 0,15.842 -1.764,7.523 -7.639,13.398 -15.162,15.162 -5.21,1.223 -10.632,1.223 -15.842,0 -7.5229999,-1.764 -13.3979999,-7.639 -15.16199986,-15.162 -1.223,-5.21 -1.223,-10.632 0,-15.842 C 2.6812441,8.5562441 8.5562441,2.6812441 16.079244,0.91724414 Z m 11.894,17.78299986 c 0.834,-0.334 1.661,0.493 1.328,1.327 l -2.081,5.202 c -0.363,0.908 -1.083,1.627 -1.991,1.991 l -5.202,2.08 c -0.833,0.334 -1.661,-0.493 -1.327,-1.327 l 2.081,-5.202 c 0.363,-0.908 1.082,-1.627 1.991,-1.991 z m 4.172,2.465 c 1.334,-3.335 -1.975,-6.643 -5.309,-5.31 l -5.202,2.081 c -1.687,0.675 -3.023,2.011 -3.698,3.698 l -2.08,5.201 c -1.334,3.335 1.975,6.643 5.309,5.31 l 5.202,-2.081 c 1.686,-0.675 3.023,-2.011 3.697,-3.698 z"
+     fill="url(#paint9_linear_0_1)"
+     id="path1465"
+     style="fill:url(#paint9_linear_0_1)" />
+  <defs
+     id="defs1582">
+    <linearGradient
+       id="paint9_linear_0_1"
+       x1="760"
+       y1="768.77802"
+       x2="789.245"
+       y2="826.31097"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-759.99976,-768.99976)">
+      <stop
+         stop-color="#09C6F9"
+         id="stop1544" />
+      <stop
+         offset="1"
+         stop-color="#045DE9"
+         id="stop1546" />
+    </linearGradient>
+  </defs>
+</svg>

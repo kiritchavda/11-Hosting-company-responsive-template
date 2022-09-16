@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48.000488"
+   height="60.999756"
+   viewBox="0 0 48.000488 60.999756"
+   fill="none"
+   version="1.1"
+   id="svg1584"
+   sodipodi:docname="Hosting Landing Page.svg"
+   inkscape:export-filename="Hosting Landing Page.png"
+   inkscape:export-xdpi="10.041841"
+   inkscape:export-ydpi="10.041841"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1586"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.54916318"
+     inkscape:cx="651.90095"
+     inkscape:cy="770.26286"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1584" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 32.920244,44.484756 -1.398,0.308 v 1.859 c 0,3.187 -2.004,5.898 -4.8,6.903 v 5.005 c 0,1.348 -1.075,2.44 -2.4,2.44 -1.326,0 -2.401,-1.092 -2.401,-2.44 v -5.005 c -2.796,-1.005 -4.8,-3.716 -4.8,-6.903 v -1.723 c -0.208,-0.042 -0.417,-0.086 -0.625,-0.132 l -1.416,-0.312 c -6.9099999,-1.522 -12.3779999,-6.888 -14.11799986,-13.855 -1.283,-5.134 -1.283,-10.512 0,-15.646 C 2.7022441,8.0177559 8.1702441,2.6507559 15.080244,1.1287559 l 1.416,-0.31200004 c 4.945,-1.089 10.063,-1.089 15.008,0 l 1.416,0.31200004 c 6.91,1.522 12.378,6.889 14.118,13.8560001 1.283,5.133 1.283,10.511 0,15.645 -1.74,6.967 -7.208,12.333 -14.118,13.855 z m -6.198,1.023 c -0.279,0.022 -0.557,0.04 -0.836,0.055 -1.321,0.072 -2.644,0.068 -3.965,-0.011 v 1.1 c 0,1.347 1.075,2.44 2.401,2.44 1.325,0 2.4,-1.093 2.4,-2.44 z m 0.079,-32.392 c 0.828,0.673 0.963,1.902 0.3,2.743 l -3.905,4.962 h 5.606 c 0.738,0 1.411,0.43 1.731,1.107 0.319,0.676 0.229,1.479 -0.232,2.065 l -6.4,8.133 c -0.663,0.842 -1.871,0.978 -2.699,0.305 -0.828,-0.674 -0.962,-1.902 -0.3,-2.744 l 3.905,-4.962 h -5.606 c -0.738,0 -1.411,-0.43 -1.73,-1.106 -0.32,-0.676 -0.23,-1.479 0.231,-2.065 l 6.4,-8.133 c 0.663,-0.842 1.871,-0.979 2.699,-0.305 z"
+     fill="url(#paint8_linear_0_1)"
+     id="path1461"
+     style="fill:url(#paint8_linear_0_1)" />
+  <defs
+     id="defs1582">
+    <linearGradient
+       id="paint8_linear_0_1"
+       x1="518"
+       y1="860.71802"
+       x2="559.93597"
+       y2="925.63501"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-517.99976,-861.00024)">
+      <stop
+         stop-color="#09C6F9"
+         id="stop1539" />
+      <stop
+         offset="1"
+         stop-color="#045DE9"
+         id="stop1541" />
+    </linearGradient>
+  </defs>
+</svg>
